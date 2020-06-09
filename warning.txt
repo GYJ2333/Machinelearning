@@ -1,1 +1,0 @@
-请将data.rar解压在Knn.py的同级目录内
